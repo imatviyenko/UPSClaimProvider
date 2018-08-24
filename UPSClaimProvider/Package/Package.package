@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="3869f3af-655c-4c0d-ba1d-aa72504a7bbd" solutionId="3869f3af-655c-4c0d-ba1d-aa72504a7bbd" resetWebServer="false" sharePointProductVersion="15.0" name="UPSClaimProvider" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="4f77677b-da04-459f-844a-483295e32ba5" />
+  </features>
+</package>

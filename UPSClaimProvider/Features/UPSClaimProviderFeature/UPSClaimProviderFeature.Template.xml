@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/"
+  ReceiverAssembly="Kcell.UPSClaimProvider, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3a1ea1ca7c1c745b"
+  ReceiverClass="Kcell.UPSClaimProvider.UPSClaimProviderFeatureReceiver"
+>
+</Feature>

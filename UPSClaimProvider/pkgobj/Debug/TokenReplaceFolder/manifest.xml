@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="3869f3af-655c-4c0d-ba1d-aa72504a7bbd" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="Kcell.UPSClaimProvider.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="UPSClaimProvider_UPSClaimProviderFeature\Feature.xml" />
+  </FeatureManifests>
+</Solution>
